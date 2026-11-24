@@ -1,0 +1,7 @@
+Artificial intelligence is the study of building machines that perform tasks requiring intelligence.
+A knowledge base stores facts and rules about a domain.
+An intelligent agent perceives its environment and takes actions to achieve goals.
+Search algorithms explore possible states to find a solution.
+A battery stores electrical energy.
+If a battery stores electrical energy, then it can supply power to a device.
+Python is a programming language.
